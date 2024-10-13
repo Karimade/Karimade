@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Karim Adel
 
-Welcome to my GitHub profile! I'm passionate about machine learning and data science. Here, you'll find a mix of my personal projects and contributions to the open-source community.
+I'm passionate about machine learning, data science, and backend development. As a junior .NET developer, I enjoy building web applications and APIs using C# and the .NET framework. Here, you'll find a mix of my personal projects in these fields, along with my contributions to the open-source community. I'm always eager to learn, collaborate, and contribute to exciting projects!
 
 ## 🌱 Currently Learning
 
